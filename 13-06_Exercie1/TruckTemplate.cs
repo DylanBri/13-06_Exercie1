@@ -8,6 +8,7 @@ namespace _13_06_Exercie1
 {
     class TruckTemplate
     {
-
+        public List<MercedesAccros> mercedesAccros = new List<MercedesAccros>();
+        public ITruck truck;
     }
 }

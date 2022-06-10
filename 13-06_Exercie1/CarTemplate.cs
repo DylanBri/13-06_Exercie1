@@ -8,5 +8,7 @@ namespace _13_06_Exercie1
 {
     class CarTemplate
     {
+        public List<RenaudClio> renaudClios = new List<RenaudClio>();
+        public ICar car;
     }
 }

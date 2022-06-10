@@ -22,7 +22,5 @@ namespace _13_06_Exercie1
         {
             throw new NotImplementedException();
         }
-
-        public CarTemplate
     }
 }

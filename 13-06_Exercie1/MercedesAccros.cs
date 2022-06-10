@@ -8,6 +8,8 @@ namespace _13_06_Exercie1
 {
     class MercedesAccros : ITruck
     {
+        public TruckTemplate truckTemplate = new TruckTemplate();
+
         public void LicencePlate()
         {
             throw new NotImplementedException();
